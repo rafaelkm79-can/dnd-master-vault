@@ -7,7 +7,7 @@ This was published for my friends and D&D co-DMs in order to collaborate on a we
  
 
 ## Fork  or download this repository. 
-   ![[Pasted image 20251111222525.png]] 
+   ![img](zz-nexus/zz-Attachments/Pasted%20image%2020251111222525.png) 
    > [!Note ]
    >  This vault will still work if you just download the zip file and extract it to a folder, but if you want to get updates, you should fork the repository instead. Doing that will require a GitHub account
 
@@ -20,7 +20,7 @@ This was published for my friends and D&D co-DMs in order to collaborate on a we
 ## Loading the vault
 ### Open the vault for the first time. 
  If you are new to obsidian, you need to open the folder you cloned the repository into as a vault.
-   ![[Pasted image 20251111224334.png]]
+   ![img](zz-nexus/zz-Attachments/Pasted%20image%2020251111224334.png)
  ### Enabling Plugins 
    Choose "Trust author and enable plugins". (I mean that's kinda why you downloaded this. If you're not sure then please take the time to browse through the vault first before enabling the plugins)
    If you choose no, you can always enable it later by disabling Restricted Mode in **Settings > Community plugins** and then click "Trust author and enable plugins"
@@ -40,8 +40,8 @@ head over to the [[Dashboard]] and click `New Campaign`
 Hit `Ctrl+N` (`Cmd+N` on mac) to create a new note and select `TemplateCampaign`. This should create a template campaign file. 
 - This vault should have my key bindings so just hit  `CTRL+Shift+R` to replace the template
 - If you're on Mac, just hit `Cmd+P` to bring up the command menu, and search for  `Templater: Replace templates in active file`
-		  
- ![[Pasted image 20251111225716.png]]
+
+ ![](zz-nexus/zz-Attachments/Pasted\%20image\%2020251111225716.png)
 
 ## All Set!
 You're ready to go! For a quick overview, check out [[Dashboard]] to see quick create buttons for quests,  players, characters, items, npcs, factions, etc
@@ -93,4 +93,4 @@ This work includes material taken from the [Lazy GM's Resource Document](https:
 
 This work includes material taken from the [Lazy GM's 5e Monster Builder Resource Document](https://slyflourish.com/lazy_5e_monster_building_resource_document.html) written by Teos Abadía of [Alphastream.org](https://alphastream.org/), Scott Fitzgerald Gray of [Insaneangel.com](https://insaneangel.com/), and Michael E. Shea of [SlyFlourish.com](https://slyflourish.com/), available under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
- This work includes material taken from the [ObsidianTTRPG](https://obsidianttrpgtutorials.com/)
+ This work includes material taken from the [ObsidianTTRPGTutorials](https://obsidianttrpgtutorials.com/)
