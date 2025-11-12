@@ -7,3 +7,5 @@
 !/02-Workshop/README.md 
 !/03-Campaigns/README.md 
 !/04-Compendium/README.md 
+.obsidian/*
+!.obsidian/snippets!
