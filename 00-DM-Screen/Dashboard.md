@@ -5,7 +5,7 @@ obsidianUIMode: preview
 
  
 
-`BUTTON[new-location, new-faction, new-journal, new-npc, new-item, new-player, new-quest]`
+`BUTTON[new-location, new-faction, new-journal, new-npc, new-item, new-player, new-quest, new-campaign]`
 
 ### In Progress
 > [!infobox]+ 

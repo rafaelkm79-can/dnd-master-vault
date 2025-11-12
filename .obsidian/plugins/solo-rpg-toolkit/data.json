@@ -1,9 +1,9 @@
 {
   "defaultView": "dice",
-  "customTableRoot": "Tables",
+  "customTableRoot": "04-Compendium/Tables",
   "customDeckRoot": "04-Compendium/Decks",
   "disableDefaultWords": false,
-  "deckJokers": false,
+  "deckJokers": true,
   "deckFlip": true,
   "deckTarot": true,
   "deckClipboard": false,
@@ -18,10 +18,10 @@
   "standardOracleEvents": false,
   "oracleLanguage": "en",
   "templatePrefix": "template",
-  "wordTab": "Prompts",
-  "oracleTab": "fu",
-  "deckTab": "LMD Creature A",
+  "wordTab": "Tables",
+  "oracleTab": "default",
+  "deckTab": "Business Card Dungeon",
   "mythicFactor": 5,
-  "wordQuickValue": "",
+  "wordQuickValue": "| —         | bar    | —    |\n| --------- | ------ | ---- |\n| —         | ched   | -a   |\n| —         | dell   | -ac  |\n| —         | far    | -ai  |\n| A-        | gran   | -al  |\n| Be-       | hal    | -am  |\n| De-       | jen    | -an  |\n| El-       | kel    | -ar  |\n| Fa-       | lim    | -ea  |\n| Jo-       | mor    | -el  |\n| Ki-       | net    | -er  |\n| La-       | penn   | -ess |\n| Ma-       | quil   | -ett |\n| Na-       | rond   | -ic  |\n| O-        | sark   | -id  |\n| Pa-       | shen   | -il  |\n| Re-       | tur    | -in  |\n| Se-       | vash   | -is  |\n| Si-       | yor    | -or  |\n| Ta-       | zen    | -us  |",
   "wordQuickHeight": 0
 }

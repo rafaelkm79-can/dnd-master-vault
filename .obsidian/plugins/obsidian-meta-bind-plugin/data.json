@@ -143,6 +143,21 @@
           "openNote": true
         }
       ]
+    },
+    {
+      "label": "New Campaign",
+      "hidden": false,
+      "id": "new-campaign",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "zz-nexus/Templates/04-World Building Templates/TemplateCampaign.md",
+          "fileName": "NewCampaign",
+          "folderPath": "/",
+          "openNote": true
+        }
+      ]
     }
   ],
   "excludedFolders": [
