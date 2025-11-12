@@ -1,7 +1,7 @@
 ---
 Class: []
 customClassSpellList:
-  - "[[5-Mechanics/CLI/5E/compendium/classes/warlock-xphb.md|Warlock]]"
+  - "[[04-Compendium/CLI/5E/compendium/classes/warlock-xphb.md|Warlock]]"
 level: 6
 pic: zz-nexus/Attachments/Azgaar/AedrylMap2.png
 ---

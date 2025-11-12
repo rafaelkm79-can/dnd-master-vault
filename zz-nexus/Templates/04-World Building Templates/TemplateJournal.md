@@ -2,7 +2,7 @@
 <%* 
 	const { campaignFolder, campaignName, campaignTag } = (await tp.user.campaignConfig(tp, app))
 -%>
-<% await tp.file.move(`/3-Session Journal/${campaignName}/` + tp.file.title) %>
+<% await tp.file.move(`${campaignFolder}/03-Session Journal/` + tp.file.title) %>
 <%* 
 const hasTitle = !tp.file.title.startsWith("NewJournal") && !tp.file.title.startsWith("Untitled");
 let title;

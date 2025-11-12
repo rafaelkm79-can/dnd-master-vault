@@ -96,7 +96,7 @@ const ExampleUsage = () => {
                     { fieldName: 'class', label: 'Class', component: FileListSuggester, componentProps: { 
                         fileName:fileName,
                         fieldName:'class',
-                        query:"@page and #Category/Class and path(\"5-Mechanics/CLI/5E/compendium/classes\")",
+                        query:"@page and #Category/Class and path(\"04-Compendium/CLI/5E/compendium/classes\")",
                         showCreate: false
                      } },
                 ]}

@@ -144,9 +144,313 @@
       ]
     },
     {
+      "id": "inavianna",
+      "lastAccessed": 1762472627609,
+      "markers": [
+        {
+          "id": "ID_4998e81b89fa",
+          "type": "Castle",
+          "loc": [
+            1842.6097863375826,
+            1680.389262790367
+          ],
+          "link": "Empyrean Cradle",
+          "layer": "%5B%5Bin_avianna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a591a88e87a",
+          "type": "Chapel",
+          "loc": [
+            1701.188430100273,
+            1700.1824311434864
+          ],
+          "link": "illithidragon-wyrmling-monstermanualexpanded3",
+          "layer": "%5B%5Bin_avianna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5be9ea4808ba",
+          "type": "Tavern",
+          "loc": [
+            1235,
+            2425.019847103793
+          ],
+          "layer": "%5B%5Bin_avianna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            103.74416458198044,
+            -59.18382628229128
+          ],
+          "description": null,
+          "minZoom": -5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa7a1908497a",
+          "type": "Store",
+          "loc": [
+            1167.0521209897568,
+            2346.9512355678617
+          ],
+          "link": "Breeze Catch General Store",
+          "layer": "%5B%5Bin_avianna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8ad9caa83bbb",
+          "type": "Chapel",
+          "loc": [
+            1100.9100155901742,
+            2108.7086439889295
+          ],
+          "layer": "%5B%5Bin_avianna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_481bbbd95849",
+          "type": "Faction",
+          "loc": [
+            1800.2662435423101,
+            2439.5719322874015
+          ],
+          "link": "Thieves Guild#In'avianna",
+          "layer": "%5B%5Bin_avianna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_884a29bb0bda",
+          "type": "Faction",
+          "loc": [
+            1947.3168326704715,
+            1129.412324206392
+          ],
+          "link": "Thieves Guild#In'avianna",
+          "layer": "%5B%5Bin_avianna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b5b69ea3a2a",
+          "type": "Faction",
+          "loc": [
+            1295.3091376991947,
+            1261.9196856961005
+          ],
+          "link": "Skyguard Corp",
+          "layer": "%5B%5Bin_avianna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebdbea0a987a",
+          "type": "Faction",
+          "loc": [
+            1139.615234375,
+            2006.1547706556894
+          ],
+          "link": "Thieves Guild#In'avianna",
+          "layer": "%5B%5Bin_avianna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0819e9394bca",
+          "type": "Faction",
+          "loc": [
+            1229.4609375,
+            2275.620846809762
+          ],
+          "link": "Oricoritos",
+          "layer": "%5B%5Bin_avianna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b92a19b82b7b",
+          "type": "Armorer",
+          "loc": [
+            1205.9609375,
+            1719.6451043810644
+          ],
+          "layer": "%5B%5Bin_avianna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "cragthorncrossroads",
+      "lastAccessed": 1762793106350,
+      "markers": [
+        {
+          "id": "ID_48793919c9f9",
+          "type": "Tavern",
+          "loc": [
+            1524.5222202381965,
+            3043.382122853335
+          ],
+          "layer": "%5B%5Bcragthorn_crossroads.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.0024315292665795,
+            -1.1039262999552473
+          ],
+          "description": null,
+          "minZoom": -6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6998c80938aa",
+          "type": "Armorer",
+          "loc": [
+            1948.7862889501253,
+            3637.3062909369896
+          ],
+          "link": "Grek Thimbauld",
+          "layer": "%5B%5Bcragthorn_crossroads.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.198058725605069,
+            -1.4111414112600473
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b196b18eaf9",
+          "type": "Store",
+          "loc": [
+            1156.8266940211918,
+            2952.8809534425586
+          ],
+          "link": "Mhystle Shiftteeth",
+          "layer": "%5B%5Bcragthorn_crossroads.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.972622184928379,
+            -0.8376732034910874
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_987af849b848",
+          "type": "Chapel",
+          "loc": [
+            587,
+            1720.9974245410024
+          ],
+          "layer": "%5B%5Bcragthorn_crossroads.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.566863446818512,
+            -0.42505430847212167
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba28ebd8eb0a",
+          "type": "Chapel",
+          "loc": [
+            574.1707063234767,
+            2341.937052248338
+          ],
+          "layer": "%5B%5Bcragthorn_crossroads.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7713890158920745,
+            -0.4157644506324958
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "03-Campaigns/The Adventurers Guild/4-Compendium/World/Places/Cragthorn Crossroads.md"
+      ]
+    },
+    {
       "id": "Aethercrest",
       "locked": false,
-      "lastAccessed": 1761498814538,
+      "lastAccessed": 1762900144049,
       "markers": [
         {
           "id": "ID_9bd948e8ea6a",
@@ -611,12 +915,14 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "03-Campaigns/Shadows Of Etherium/4-Compendium/World/Places/Aethercrest.md"
+      ]
     },
     {
       "id": "AedrylMap",
       "locked": true,
-      "lastAccessed": 1761882246082,
+      "lastAccessed": 1762901772913,
       "markers": [
         {
           "id": "ID_8ae8e8295bfb",
@@ -1282,209 +1588,11 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "2-Worlds/The World of Aedryl/The World of Aedryl.md"
-      ]
-    },
-    {
-      "id": "inavianna",
-      "lastAccessed": 1762472627609,
-      "markers": [
-        {
-          "id": "ID_4998e81b89fa",
-          "type": "Castle",
-          "loc": [
-            1842.6097863375826,
-            1680.389262790367
-          ],
-          "link": "Empyrean Cradle",
-          "layer": "%5B%5Bin_avianna.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7a591a88e87a",
-          "type": "Chapel",
-          "loc": [
-            1701.188430100273,
-            1700.1824311434864
-          ],
-          "link": "illithidragon-wyrmling-monstermanualexpanded3",
-          "layer": "%5B%5Bin_avianna.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5be9ea4808ba",
-          "type": "Tavern",
-          "loc": [
-            1235,
-            2425.019847103793
-          ],
-          "layer": "%5B%5Bin_avianna.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            103.74416458198044,
-            -59.18382628229128
-          ],
-          "description": null,
-          "minZoom": -5,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_fa7a1908497a",
-          "type": "Store",
-          "loc": [
-            1167.0521209897568,
-            2346.9512355678617
-          ],
-          "link": "Breeze Catch General Store",
-          "layer": "%5B%5Bin_avianna.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_8ad9caa83bbb",
-          "type": "Chapel",
-          "loc": [
-            1100.9100155901742,
-            2108.7086439889295
-          ],
-          "layer": "%5B%5Bin_avianna.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_481bbbd95849",
-          "type": "Faction",
-          "loc": [
-            1800.2662435423101,
-            2439.5719322874015
-          ],
-          "link": "Thieves Guild#In'avianna",
-          "layer": "%5B%5Bin_avianna.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_884a29bb0bda",
-          "type": "Faction",
-          "loc": [
-            1947.3168326704715,
-            1129.412324206392
-          ],
-          "link": "Thieves Guild#In'avianna",
-          "layer": "%5B%5Bin_avianna.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9b5b69ea3a2a",
-          "type": "Faction",
-          "loc": [
-            1295.3091376991947,
-            1261.9196856961005
-          ],
-          "link": "Skyguard Corp",
-          "layer": "%5B%5Bin_avianna.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ebdbea0a987a",
-          "type": "Faction",
-          "loc": [
-            1139.615234375,
-            2006.1547706556894
-          ],
-          "link": "Thieves Guild#In'avianna",
-          "layer": "%5B%5Bin_avianna.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_0819e9394bca",
-          "type": "Faction",
-          "loc": [
-            1229.4609375,
-            2275.620846809762
-          ],
-          "link": "Oricoritos",
-          "layer": "%5B%5Bin_avianna.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_b92a19b82b7b",
-          "type": "Armorer",
-          "loc": [
-            1205.9609375,
-            1719.6451043810644
-          ],
-          "layer": "%5B%5Bin_avianna.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
       "files": []
     },
     {
       "id": "beastgladesroadtocragthorn",
-      "lastAccessed": 1762571042111,
+      "lastAccessed": 1762906601013,
       "markers": [
         {
           "id": "ID_1838990a6ba9",
@@ -1654,115 +1762,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "1-Parties/The Adventurer's Guild/Quests/Birds Of A Feather.md"
-      ]
-    },
-    {
-      "id": "cragthorncrossroads",
-      "lastAccessed": 1762793106350,
-      "markers": [
-        {
-          "id": "ID_48793919c9f9",
-          "type": "Tavern",
-          "loc": [
-            1524.5222202381965,
-            3043.382122853335
-          ],
-          "layer": "%5B%5Bcragthorn_crossroads.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            1.0024315292665795,
-            -1.1039262999552473
-          ],
-          "description": null,
-          "minZoom": -6,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_6998c80938aa",
-          "type": "Armorer",
-          "loc": [
-            1948.7862889501253,
-            3637.3062909369896
-          ],
-          "link": "Grek Thimbauld",
-          "layer": "%5B%5Bcragthorn_crossroads.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            1.198058725605069,
-            -1.4111414112600473
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_1b196b18eaf9",
-          "type": "Store",
-          "loc": [
-            1156.8266940211918,
-            2952.8809534425586
-          ],
-          "link": "Mhystle Shiftteeth",
-          "layer": "%5B%5Bcragthorn_crossroads.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.972622184928379,
-            -0.8376732034910874
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_987af849b848",
-          "type": "Chapel",
-          "loc": [
-            587,
-            1720.9974245410024
-          ],
-          "layer": "%5B%5Bcragthorn_crossroads.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.566863446818512,
-            -0.42505430847212167
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ba28ebd8eb0a",
-          "type": "Chapel",
-          "loc": [
-            574.1707063234767,
-            2341.937052248338
-          ],
-          "layer": "%5B%5Bcragthorn_crossroads.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7713890158920745,
-            -0.4157644506324958
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "2-Worlds/The World of Aedryl/Places/Cragthorn Crossroads.md"
+        "03-Campaigns/The Adventurers Guild/02-Quests/00-Drafts/Birds Of A Feather.md"
       ]
     }
   ],

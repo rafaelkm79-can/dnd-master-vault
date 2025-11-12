@@ -1,6 +1,6 @@
 
 const dv = engine.getPlugin('dataview').api 
-dv.pages('"5-Mechanics/CLI/DaggerHeart/classes"')
+dv.pages('"04-Compendium/CLI/DaggerHeart/classes"')
     .forEach(async (p) => { 
         const content = await dv.io.load(p.file.path);
         const name = p.file.name;

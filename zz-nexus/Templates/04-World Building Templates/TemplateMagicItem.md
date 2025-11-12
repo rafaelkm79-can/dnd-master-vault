@@ -1,15 +1,11 @@
 <% "---" %>
+
 <%*
-const {   
-	worldTag,
-	worldName,
-	worldFolder
-} = (await tp.user.worldConfig(tp, app))
+
+  const { campaignFolder, campaignName, campaignTag } = (await tp.user.campaignConfig(tp, app))
+
 -%>
-<%* 
-	const { campaignFolder, campaignName, campaignTag } = (await tp.user.campaignConfig(tp, app))
--%>
-<% await tp.file.move(`/4-Compendium/Items/` + tp.file.title) %>
+<% await tp.file.move(`${campaignFolder}/04-Codex/03-Items/` + tp.file.title) %>
 <%* 
 const hasTitle = !tp.file.title.startsWith("NewMagicItem") && !tp.file.title.startsWith("Untitled");
 let title;

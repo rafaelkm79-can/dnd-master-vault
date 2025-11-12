@@ -12,19 +12,19 @@ obsidianUIMode: preview
 > #### Recently Updated
 > ```dataview 
 > TABLE dateformat(file.mtime, "dd.MM.yyyy - HH:mm") AS "Last modified" 
-> FROM !"5-Mechanics" AND !"z-assets" SORT file.mtime DESC LIMIT 25 
+> FROM !"04-Compendium" AND !"zz-nexus" SORT file.mtime DESC LIMIT 25 
 > ```
 
 > [!note|table t-w] Title
 >```dataview 
 > TABLE dateformat(file.mtime, "dd.MM.yyyy - HH:mm") AS "Last modified" 
-> FROM #InProgress AND !"5-Mechanics" AND !"z-assets" 
+> FROM #InProgress AND !"04-Compendium" AND !"zz-nexus" 
 > SORT file.mtime DESC LIMIT 15 
 > ```
 
 ### Interesting Events
 ```dataviewjs 
-const pages = dv.pages('!"5-Mechanics" and !"z-assets" and  #interesting')
+const pages = dv.pages('!"04-Compendium" and !"zz-nexus" and  #interesting')
 	.sort(p => p.file.mtime,'desc')
 	.limit(15)
 	.map(p => [

@@ -17,9 +17,9 @@ image: zz-nexus/Attachments/Armoria/cragthorncrossroads_coa.png
 > Destination |  Travel Days  |
 > ---|---|
 > some place | 🕓: `VIEW[round((88* {Travel Calc#TravelCalc}) / 60 / {Travel Calc#HoursPerDay}, 1)]`      |
-> Intra-City (Short) | 🕓: `VIEW[round(({city_end_to_end} * 0.5 * 0.62 * {The Adventurer's Guild#TravelCalc})  )]`  Minutes |
-> Intra-City (Full)| 🕓: `VIEW[round(({city_end_to_end} * 0.62 * {The Adventurer's Guild#TravelCalc})  )]`  Minutes |
-> Intra-City (Around)| 🕓: `VIEW[round(({city_end_to_end} * 3.14 * 0.62 * {The Adventurer's Guild#TravelCalc})  )]`  Minutes |
+> Intra-City (Short) | 🕓: `VIEW[round(({city_end_to_end} * 0.5 * 0.62 * {The Adventurers Guild#TravelCalc})  )]`  Minutes |
+> Intra-City (Full)| 🕓: `VIEW[round(({city_end_to_end} * 0.62 * {The Adventurers Guild#TravelCalc})  )]`  Minutes |
+> Intra-City (Around)| 🕓: `VIEW[round(({city_end_to_end} * 3.14 * 0.62 * {The Adventurers Guild#TravelCalc})  )]`  Minutes |
 > ###### Politics
 > Type |  Stat |
 > ---|---|

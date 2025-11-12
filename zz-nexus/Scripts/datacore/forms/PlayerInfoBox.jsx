@@ -67,7 +67,7 @@ const PlayerInfoBox = ({ fileName, className = '' }) => {
                             fieldName: 'Class', label: 'Class', component: FileListSuggester, componentProps: {
                                 fileName: fileName,
                                 fieldName: 'Class',
-                                query: "@page and #Category/Class and path(\"5-Mechanics/CLI/5E/compendium/classes\")",
+                                query: "@page and #Category/Class and path(\"04-Compendium/CLI/5E/compendium/classes\")",
                                 showCreate: false, 
                             }
                         },
@@ -75,7 +75,7 @@ const PlayerInfoBox = ({ fileName, className = '' }) => {
                             fieldName: 'Subclass', label: 'Subclass', component: FileListSuggester, componentProps: {
                                 fileName: fileName,
                                 fieldName: 'Subclass',
-                                query: "@page and #Category/Subclass and path(\"5-Mechanics/CLI/5E/compendium/classes\")",
+                                query: "@page and #Category/Subclass and path(\"04-Compendium/CLI/5E/compendium/classes\")",
                                 showCreate: false, 
                             }
                         },
@@ -86,7 +86,7 @@ const PlayerInfoBox = ({ fileName, className = '' }) => {
                             componentProps: {
                                 fileName: fileName,
                                 fieldName: 'Race',
-                                query: "@page and #Category/Race and (path(\"5-Mechanics/CLI/5E/compendium/races\") or path(\"4-Compendium\"))",
+                                query: "@page and #Category/Race and (path(\"04-Compendium/CLI/5E/compendium/races\") or path(\"4-Compendium\"))",
                                 showCreate: false,
                                 dropdownMap, 
                                 saveMap,
@@ -106,7 +106,7 @@ const PlayerInfoBox = ({ fileName, className = '' }) => {
                             componentProps:{
                                 fileName: fileName,
                                 fieldName: 'Hometown',
-                                query: "@page and #Category/Location and (path(\"2-Worlds\"))",
+                                query: "@page and #Category/Location and (path(\"03-Campaigns\"))",
                                 showCreate: false,
                                 addButtonLabel: () => "Choose one...",
                                 dropdownMap, 

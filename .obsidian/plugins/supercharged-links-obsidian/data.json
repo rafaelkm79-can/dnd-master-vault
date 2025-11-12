@@ -215,6 +215,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "NoteIcon",
+      "value": "README",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "40b0-254a",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

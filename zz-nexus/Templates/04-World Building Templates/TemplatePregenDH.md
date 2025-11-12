@@ -1,7 +1,7 @@
 
 <% "---" %>
 obsidianUIMode: preview
-<% await tp.file.move("4-Compendium/Pregen/"  + tp.file.title) %>
+<% await tp.file.move("04-Codex/99-Misc/Pregen/"  + tp.file.title) %>
 
 <%*
 const hasTitle = !tp.file.title.startsWith("NewPregen") && !tp.file.title.startsWith("Untitled");

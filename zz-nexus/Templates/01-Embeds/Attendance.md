@@ -8,7 +8,7 @@ attendance:
   Mr Wick: true
   Jackson Liefsson: false
 class:
-  - "[[5-Mechanics/CLI/5E/compendium/classes/wizard-xphb.md]]"
+  - "[[04-Compendium/CLI/5E/compendium/classes/wizard-xphb.md]]"
 ---
 
 

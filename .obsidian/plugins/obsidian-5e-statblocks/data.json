@@ -160,7 +160,7 @@
         ],
         "image": "/5.%20Mechanics/CLI/5E/compendium/bestiary/humanoid/token/warlock-of-the-fiend-legendary-monstermanualexpanded3.png",
         "mtime": 1754020114535,
-        "path": "5-Mechanics/CLI/5E/compendium/bestiary/humanoid/warlock-of-the-fiend-legendary-monstermanualexpanded3.md",
+        "path": "04-Compendium/CLI/5E/compendium/bestiary/humanoid/warlock-of-the-fiend-legendary-monstermanualexpanded3.md",
         "creature": "Warlock of the Fiend, Legendary (MonsterManualExpanded3)",
         "layout": "Basic 5e Layout"
       }
@@ -295,7 +295,7 @@
         ],
         "image": "/5.%20Mechanics/CLI/5E/compendium/bestiary/undead/token/lich-xmm.webp",
         "mtime": 1754020119283,
-        "path": "5-Mechanics/CLI/5E/compendium/bestiary/undead/lich-xmm.md",
+        "path": "04-Compendium/CLI/5E/compendium/bestiary/undead/lich-xmm.md",
         "saves": [
           {
             "dexterity": 10
@@ -1051,11 +1051,9 @@
     "patch": 2
   },
   "paths": [
-    "5-Mechanics/CLI/5E/compendium/bestiary",
-    "4. Bestiary",
-    "2-Worlds/The World of Aedryl/NPCs",
-    "2-Worlds/The Converging Realms/NPCs",
-    "5-Mechanics/CLI/DaggerHeart/adversaries"
+    "04-Compendium/CLI/5E/compendium/bestiary",
+    "03-Campaigns",
+    "04-Compendium/CLI/DaggerHeart/adversaries"
   ],
   "autoParse": true,
   "disableSRD": true,

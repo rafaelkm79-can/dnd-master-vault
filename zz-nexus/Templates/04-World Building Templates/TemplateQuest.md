@@ -2,7 +2,7 @@
 <%*
 	const { campaignFolder, campaignName, campaignTag } = (await tp.user.campaignConfig(tp, app))
 -%>
-<% await tp.file.move(campaignFolder + "/Quests/"  + tp.file.title) %>
+<% await tp.file.move(campaignFolder + "/02-Quests/"  + tp.file.title) %>
 
 <%*
 const hasTitle = !tp.file.title.startsWith("NewQuest") && !tp.file.title.startsWith("Untitled");

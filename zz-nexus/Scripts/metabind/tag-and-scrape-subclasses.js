@@ -12,7 +12,7 @@ const classes = dv.pages("#Category/Class AND #System/DH").map(c => {
         file,
     };
 });
-await Promise.all(dv.pages('"5-Mechanics/CLI/DaggerHeart/subclasses"')
+await Promise.all(dv.pages('"04-Compendium/CLI/DaggerHeart/subclasses"')
     .forEach(async (p) => {
         const content = await dv.io.load(p.file.path);
         const name = p.file.name;

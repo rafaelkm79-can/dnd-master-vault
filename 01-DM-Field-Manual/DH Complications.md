@@ -9,13 +9,13 @@ adversaryType: ""
 encounterDiff: -1
 players: 5
 adversaries:
-  - "[[5-Mechanics/CLI/DaggerHeart/adversaries/Shark.md|Shark]]"
-  - "[[5-Mechanics/CLI/DaggerHeart/adversaries/Shark.md|Shark]]"
-  - "[[5-Mechanics/CLI/DaggerHeart/adversaries/Siren.md|Siren]]"
-  - "[[5-Mechanics/CLI/DaggerHeart/adversaries/Siren.md|Siren]]"
-  - "[[5-Mechanics/CLI/DaggerHeart/adversaries/Chaos Skull.md|Chaos Skull]]"
-  - "[[5-Mechanics/CLI/DaggerHeart/adversaries/Electric Eels.md|Electric Eels]]"
-  - "[[5-Mechanics/CLI/DaggerHeart/adversaries/Giant Recruit.md|Giant Recruit]]"
+  - "[[04-Compendium/CLI/DaggerHeart/adversaries/Shark.md|Shark]]"
+  - "[[04-Compendium/CLI/DaggerHeart/adversaries/Shark.md|Shark]]"
+  - "[[04-Compendium/CLI/DaggerHeart/adversaries/Siren.md|Siren]]"
+  - "[[04-Compendium/CLI/DaggerHeart/adversaries/Siren.md|Siren]]"
+  - "[[04-Compendium/CLI/DaggerHeart/adversaries/Chaos Skull.md|Chaos Skull]]"
+  - "[[04-Compendium/CLI/DaggerHeart/adversaries/Electric Eels.md|Electric Eels]]"
+  - "[[04-Compendium/CLI/DaggerHeart/adversaries/Giant Recruit.md|Giant Recruit]]"
 battlePoints: 16
 battlePointsSpent: 17
 ---

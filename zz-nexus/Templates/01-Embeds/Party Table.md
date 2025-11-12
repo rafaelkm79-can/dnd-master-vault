@@ -11,7 +11,7 @@ obsidianUIMode: preview
 > const mb = engine.getPlugin("obsidian-meta-bind-plugin")?.api;
 > const ctag = context.bound.campaignTag
 > const milestonesForTier = context.bound.milestonesForTier 
-> const pages = dv.pages(`#Category/Player AND #${ctag} AND "1-Parties"`) 
+> const pages = dv.pages(`#Category/Player AND #${ctag} AND "03-Campaigns"`) 
 > const data = pages
 > .filter((p)=> {
 > 	return p.status !== 'Retired'

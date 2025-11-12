@@ -5,7 +5,7 @@ tags:
 obsidianUIMode: preview
 level: 0
 Class:
-  - "[[5-Mechanics/CLI/5E/compendium/classes/cleric-xphb.md|Cleric]]"
+  - "[[04-Compendium/CLI/5E/compendium/classes/cleric-xphb.md|Cleric]]"
 Subclass: []
 maxlevel: 2
 minlevel: 1

@@ -1,16 +1,16 @@
 ---
 pic: ImagePlaceholder.png
 Class:
-  - "[[5-Mechanics/CLI/DaggerHeart/classes/Sorcerer.md|Sorcerer]]"
-  - "[[5-Mechanics/CLI/DaggerHeart/classes/Druid.md|Druid]]"
-  - "[[5-Mechanics/CLI/DaggerHeart/classes/Ranger.md|Ranger]]"
+  - "[[04-Compendium/CLI/DaggerHeart/classes/Sorcerer.md|Sorcerer]]"
+  - "[[04-Compendium/CLI/DaggerHeart/classes/Druid.md|Druid]]"
+  - "[[04-Compendium/CLI/DaggerHeart/classes/Ranger.md|Ranger]]"
 level: 2
 Community:
-  - "[[5-Mechanics/CLI/DaggerHeart/communities/Wildborne.md|Wildborne]]"
+  - "[[04-Compendium/CLI/DaggerHeart/communities/Wildborne.md|Wildborne]]"
 proficiency: 2
 SpellCastTrait: Agility
 Subclass:
-  - "[[5-Mechanics/CLI/DaggerHeart/subclasses/Beastbound.md|Beastbound]]"
+  - "[[04-Compendium/CLI/DaggerHeart/subclasses/Beastbound.md|Beastbound]]"
 ---
 
 > [!infobox| right ws-med static ]+

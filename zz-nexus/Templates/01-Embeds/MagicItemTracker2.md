@@ -12,41 +12,41 @@ raritySelect: any
 reload: true
 plannedItems:
   common:
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/apper-carrot-obojimatallgrass.md|apper-carrot-obojimatallgrass]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/apper-carrot-obojimatallgrass.md|apper-carrot-obojimatallgrass]]"
       obtained: false
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/animal-affinity-obojimatallgrass.md|animal-affinity-obojimatallgrass]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/animal-affinity-obojimatallgrass.md|animal-affinity-obojimatallgrass]]"
       obtained: true
       notes: ""
   legendary:
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/agony-tdcsr.md|agony-tdcsr]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/agony-tdcsr.md|agony-tdcsr]]"
       obtained: true
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/white-dragon-mask-rotos.md|white-dragon-mask-rotos]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/white-dragon-mask-rotos.md|white-dragon-mask-rotos]]"
       obtained: false
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/belt-of-storm-giant-strength.md|belt-of-storm-giant-strength]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/belt-of-storm-giant-strength.md|belt-of-storm-giant-strength]]"
       obtained: false
   uncommon:
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/1-arcane-grimoire-tce.md|1-arcane-grimoire-tce]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/1-arcane-grimoire-tce.md|1-arcane-grimoire-tce]]"
       obtained: false
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/1-moon-sickle-tce.md|1-moon-sickle-tce]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/1-moon-sickle-tce.md|1-moon-sickle-tce]]"
       obtained: false
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/1-rod-of-the-pact-keeper-xdmg.md|1-rod-of-the-pact-keeper-xdmg]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/1-rod-of-the-pact-keeper-xdmg.md|1-rod-of-the-pact-keeper-xdmg]]"
       obtained: false
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/wraiths-ring-griffonssaddlebag3.md|wraiths-ring-griffonssaddlebag3]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/wraiths-ring-griffonssaddlebag3.md|wraiths-ring-griffonssaddlebag3]]"
       obtained: false
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/1-rhythm-makers-drum-tce.md|1-rhythm-makers-drum-tce]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/1-rhythm-makers-drum-tce.md|1-rhythm-makers-drum-tce]]"
       obtained: false
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/1-rod-of-the-pact-keeper-xdmg.md|1-rod-of-the-pact-keeper-xdmg]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/1-rod-of-the-pact-keeper-xdmg.md|1-rod-of-the-pact-keeper-xdmg]]"
       obtained: false
   rare:
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/1-armor-xdmg.md|1-armor-xdmg]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/1-armor-xdmg.md|1-armor-xdmg]]"
       obtained: false
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/sword-of-wounding.md|sword-of-wounding]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/sword-of-wounding.md|sword-of-wounding]]"
       obtained: false
       tier: major
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/1-armor-xdmg.md|1-armor-xdmg]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/1-armor-xdmg.md|1-armor-xdmg]]"
       obtained: false
   very-rare:
-    - item: "[[5-Mechanics/CLI/5E/compendium/items/3-dragonhide-belt-ftd.md|3-dragonhide-belt-ftd]]"
+    - item: "[[04-Compendium/CLI/5E/compendium/items/3-dragonhide-belt-ftd.md|3-dragonhide-belt-ftd]]"
       obtained: false
 plannedItemsNotes:
   1-arcane-grimoire-tce: test

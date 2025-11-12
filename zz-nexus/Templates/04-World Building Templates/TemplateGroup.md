@@ -1,12 +1,11 @@
 <% "---" %>
+
 <%*
-const {   
-	worldTag,
-	worldName,
-	worldFolder
-} = (await tp.user.worldConfig(tp, app))
+
+  const { campaignFolder, campaignName, campaignTag } = (await tp.user.campaignConfig(tp, app))
+
 -%>
-<% await tp.file.move(`${worldFolder}/Factions/` + tp.file.title) %>
+<% await tp.file.move(`${campaignFolder}/04-Codex/05-Factions/` + tp.file.title) %>
 
 <%*  
 const hasTitle = !tp.file.title.startsWith("NewGroup");  
@@ -21,7 +20,7 @@ _%>
 obsidianUIMode: preview
 tags:
   - Category/Group
-  - <% worldTag %> 
+  - <% campaignTag %> 
   - InProgress
 Alignment: Chaotic Evil
 Organization style: Autocracy

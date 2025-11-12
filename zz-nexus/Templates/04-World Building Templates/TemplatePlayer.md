@@ -11,7 +11,7 @@ const {
 	world
 } = (await tp.user.worldConfig(tp, app))
 -%>
-<% await tp.file.move(campaignFolder + "/Characters/"  + tp.file.title) %>
+<% await tp.file.move(campaignFolder + "/01-Characters/"  + tp.file.title) %>
 
 <%*
 const hasTitle = !tp.file.title.startsWith("NewPlayer") && !tp.file.title.startsWith("Untitled");

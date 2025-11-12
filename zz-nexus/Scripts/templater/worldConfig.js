@@ -1,6 +1,7 @@
 module.exports = async (tp, app) => {
     const dv = app.plugins.plugins.dataview.api;
     const worldFiles = dv.pages("#Category/World").array();
+    console.log(worldFiles)
 
     let selectedWorld = (
         await tp.system.suggester((world) => {

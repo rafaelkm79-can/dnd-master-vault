@@ -1,10 +1,9 @@
 ---
 Vitality: Alive
 Race:
-  - "[[5-Mechanics/CLI/5E/compendium/bestiary/dragon/young-brass-dragon-xmm.md|Young Brass Dragon]]"
+  - "[[04-Compendium/CLI/5E/compendium/bestiary/dragon/young-brass-dragon-xmm.md|Young Brass Dragon]]"
 defaultImage:
-defaultRacePics:
-  - 5-Mechanics/CLI/5E/compendium/bestiary/dragon/img/brass-dragon.webp
+defaultRacePics: []
 ---
 
 > [!infobox|clear clean wide1]+
@@ -100,9 +99,9 @@ const defaultRacePics = context.bound.defaultRacePics
 const pic = context.bound.pic
 if(!pic && defaultRacePics && defaultRacePics.length > 0) {
  
-	return `![${context.file.name}|cover](${defaultRacePics[0]})\n\n\`INPUT[imageSuggester(optionQuery("zz-nexus/Attachments")):pic]\`` 
+	return `![${context.file.name}|cover](${defaultRacePics[0]})\n\n\`INPUT[imageSuggester(optionQuery("03-Campaigns")):pic]\`` 
 } else {
-	return  `\`INPUT[imageSuggester(optionQuery("z_attachments"),class(cover)):pic]\``
+	return  `\`INPUT[imageSuggester(optionQuery("03-Campaigns"),class(cover)):pic]\``
 } 
 ```
 
