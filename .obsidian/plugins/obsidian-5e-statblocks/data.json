@@ -9,7 +9,7 @@
         "subtype": "any race",
         "alignment": "Any Non-Chaotic alignment",
         "ac": 14,
-        "ac_class": "<STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/items/studded-leather-armor-xphb.md|studded leather<STATBLOCK-MARKDOWN-LINK>",
+        "ac_class": "<STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/items/studded-leather-armor-xphb.md|studded leather<STATBLOCK-MARKDOWN-LINK>",
         "hp": 36,
         "hit_dice": "6d8 + 6",
         "modifier": 2,
@@ -24,18 +24,18 @@
         "speed": "30 ft.",
         "skillsaves": [
           {
-            "name": "<STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/skills.md#Perception|Perception<STATBLOCK-MARKDOWN-LINK>",
+            "name": "<STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/skills.md#Perception|Perception<STATBLOCK-MARKDOWN-LINK>",
             "desc": "+6"
           }
         ],
         "damage_resistances": "necrotic",
-        "condition_immunities": "<STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/conditions.md#Frightened|frightened<STATBLOCK-MARKDOWN-LINK>",
+        "condition_immunities": "<STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/conditions.md#Frightened|frightened<STATBLOCK-MARKDOWN-LINK>",
         "senses": "darkvision 60 ft., passive Perception 16",
         "languages": "any two languages",
         "cr": "1/4",
         "traits": [
           {
-            "desc": "The warlock is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells.\n\nCantrips (at will): <STATBLOCK-WIKI-LINK>eldritch-blast-xphb|Eldritch Blast<STATBLOCK-WIKI-LINK>\n\n1st-2nd level (2 slots): <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/false-life-xphb.md|false life<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/sanctuary-xphb.md|sanctuary<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/silence-xphb.md|silence<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/spiritual-weapon-xphb.md|spiritual weapon<STATBLOCK-MARKDOWN-LINK> (a scythe)",
+            "desc": "The warlock is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells.\n\nCantrips (at will): <STATBLOCK-WIKI-LINK>eldritch-blast-xphb|Eldritch Blast<STATBLOCK-WIKI-LINK>\n\n1st-2nd level (2 slots): <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/false-life-xphb.md|false life<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/sanctuary-xphb.md|sanctuary<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/silence-xphb.md|silence<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/spiritual-weapon-xphb.md|spiritual weapon<STATBLOCK-MARKDOWN-LINK> (a scythe)",
             "name": "Spellcasting"
           }
         ],
@@ -62,7 +62,7 @@
         "subtype": "Human",
         "alignment": "CE",
         "ac": 12,
-        "ac_class": "15 with <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/mage-armor-xphb.md|mage armor<STATBLOCK-MARKDOWN-LINK>",
+        "ac_class": "15 with <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/mage-armor-xphb.md|mage armor<STATBLOCK-MARKDOWN-LINK>",
         "hp": 104,
         "hit_dice": "16d8 + 32",
         "modifier": 2,
@@ -85,19 +85,19 @@
         ],
         "skillsaves": [
           {
-            "name": "<STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/skills.md#Arcana|Arcana<STATBLOCK-MARKDOWN-LINK>",
+            "name": "<STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/skills.md#Arcana|Arcana<STATBLOCK-MARKDOWN-LINK>",
             "desc": "+6"
           },
           {
-            "name": "<STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/skills.md#Deception|Deception<STATBLOCK-MARKDOWN-LINK>",
+            "name": "<STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/skills.md#Deception|Deception<STATBLOCK-MARKDOWN-LINK>",
             "desc": "+10"
           },
           {
-            "name": "<STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/skills.md#Perception|Perception<STATBLOCK-MARKDOWN-LINK>",
+            "name": "<STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/skills.md#Perception|Perception<STATBLOCK-MARKDOWN-LINK>",
             "desc": "+6"
           },
           {
-            "name": "<STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/skills.md#Religion|Religion<STATBLOCK-MARKDOWN-LINK>",
+            "name": "<STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/skills.md#Religion|Religion<STATBLOCK-MARKDOWN-LINK>",
             "desc": "+6"
           }
         ],
@@ -115,7 +115,7 @@
             "name": "The Ashen King's luck (Recharges After A Short Or Long Rest)"
           },
           {
-            "desc": "When the warlock casts a spell and is interrupted by an enemy's <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/counterspell-xphb.md|counterspell<STATBLOCK-MARKDOWN-LINK>, treat the spell's level as 3 levels higher.",
+            "desc": "When the warlock casts a spell and is interrupted by an enemy's <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/counterspell-xphb.md|counterspell<STATBLOCK-MARKDOWN-LINK>, treat the spell's level as 3 levels higher.",
             "name": "Spell Penetration"
           },
           {
@@ -129,17 +129,17 @@
             "name": "Quarterstaff"
           },
           {
-            "desc": "The warlock summons a <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/bestiary/fiend/barbed-devil-xmm.md|barbed devil<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/bestiary/fiend/barlgura-xmm.md|barlgura<STATBLOCK-MARKDOWN-LINK>, or <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/bestiary/fiend/mezzoloth-xmm.md|mezzoloth<STATBLOCK-MARKDOWN-LINK>. A summoned fiend appears in an unoccupied space within 60 feet of the warlock and acts as an ally of the warlock. It remains for an hour, until it or the warlock dies, or until its summoner dismisses it as an action.",
+            "desc": "The warlock summons a <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/bestiary/fiend/barbed-devil-xmm.md|barbed devil<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/bestiary/fiend/barlgura-xmm.md|barlgura<STATBLOCK-MARKDOWN-LINK>, or <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/bestiary/fiend/mezzoloth-xmm.md|mezzoloth<STATBLOCK-MARKDOWN-LINK>. A summoned fiend appears in an unoccupied space within 60 feet of the warlock and acts as an ally of the warlock. It remains for an hour, until it or the warlock dies, or until its summoner dismisses it as an action.",
             "name": "Summon Fiend (1/Day)"
           },
           {
-            "desc": "The warlock casts one of the following spells using Charisma as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):\n\nAt will: <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/eldritch-blast-xphb.md|eldritch blast<STATBLOCK-MARKDOWN-LINK> (4 beams, 1d10 + 5), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/freedom-of-movement-xphb.md|freedom of movement<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/levitate-xphb.md|levitate<STATBLOCK-MARKDOWN-LINK> (self only), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/mage-armor-xphb.md|mage armor<STATBLOCK-MARKDOWN-LINK> (self only), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/fire-bolt-xphb.md|fire bolt<STATBLOCK-MARKDOWN-LINK> (4d10), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/mage-hand-xphb.md|mage hand<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/minor-illusion-xphb.md|minor illusion<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/prestidigitation-xphb.md|prestidigitation<STATBLOCK-MARKDOWN-LINK>\n\n4/day: <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/banishment-xphb.md|banishment<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/counterspell-xphb.md|counterspell<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/dispel-magic-xphb.md|dispel magic<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/fireball-xphb.md|fireball<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/fly-xphb.md|fly<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/stinking-cloud-xphb.md|stinking cloud<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/summon-greater-demon-xge.md|summon greater demon<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/wall-of-fire-xphb.md|wall of fire<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell)\n\n1/day each: <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/circle-of-death-xphb.md|circle of death<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/power-word-pain-xge.md|power word pain<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/plane-shift-xphb.md|plane shift<STATBLOCK-MARKDOWN-LINK>",
+            "desc": "The warlock casts one of the following spells using Charisma as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):\n\nAt will: <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/eldritch-blast-xphb.md|eldritch blast<STATBLOCK-MARKDOWN-LINK> (4 beams, 1d10 + 5), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/freedom-of-movement-xphb.md|freedom of movement<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/levitate-xphb.md|levitate<STATBLOCK-MARKDOWN-LINK> (self only), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/mage-armor-xphb.md|mage armor<STATBLOCK-MARKDOWN-LINK> (self only), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/fire-bolt-xphb.md|fire bolt<STATBLOCK-MARKDOWN-LINK> (4d10), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/mage-hand-xphb.md|mage hand<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/minor-illusion-xphb.md|minor illusion<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/prestidigitation-xphb.md|prestidigitation<STATBLOCK-MARKDOWN-LINK>\n\n4/day: <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/banishment-xphb.md|banishment<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/counterspell-xphb.md|counterspell<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/dispel-magic-xphb.md|dispel magic<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/fireball-xphb.md|fireball<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/fly-xphb.md|fly<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/stinking-cloud-xphb.md|stinking cloud<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/summon-greater-demon-xge.md|summon greater demon<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/wall-of-fire-xphb.md|wall of fire<STATBLOCK-MARKDOWN-LINK> (as 5th-level spell)\n\n1/day each: <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/circle-of-death-xphb.md|circle of death<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/power-word-pain-xge.md|power word pain<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/plane-shift-xphb.md|plane shift<STATBLOCK-MARKDOWN-LINK>",
             "name": "Innate Spellcasting"
           }
         ],
         "legendary_actions": [
           {
-            "desc": "The warlock moves up to half its speed without provoking <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/actions.md#Opportunity%20Attack|opportunity attacks<STATBLOCK-MARKDOWN-LINK>.",
+            "desc": "The warlock moves up to half its speed without provoking <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/actions.md#Opportunity%20Attack|opportunity attacks<STATBLOCK-MARKDOWN-LINK>.",
             "name": "Move"
           },
           {
@@ -147,18 +147,18 @@
             "name": "Quarterstaff"
           },
           {
-            "desc": "The warlock targets one creature it can see within 60 feet of it. If the target can see and hear the warlock, it must succeed on a DC 18 Wisdom saving throw or become <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/conditions.md#Charmed|charmed<STATBLOCK-MARKDOWN-LINK> or <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/conditions.md#Frightened|frightened<STATBLOCK-MARKDOWN-LINK> (warlock's choice) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to warlock's Diabolical Presence for the next 24 hours.",
+            "desc": "The warlock targets one creature it can see within 60 feet of it. If the target can see and hear the warlock, it must succeed on a DC 18 Wisdom saving throw or become <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/conditions.md#Charmed|charmed<STATBLOCK-MARKDOWN-LINK> or <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/conditions.md#Frightened|frightened<STATBLOCK-MARKDOWN-LINK> (warlock's choice) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to warlock's Diabolical Presence for the next 24 hours.",
             "name": "Diabolical Presence"
           },
           {
-            "desc": "The warlock casts <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/eldritch-blast-xphb.md|eldritch blast<STATBLOCK-MARKDOWN-LINK>.",
+            "desc": "The warlock casts <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/eldritch-blast-xphb.md|eldritch blast<STATBLOCK-MARKDOWN-LINK>.",
             "name": "Eldritch Blast (Costs 2 Actions)"
           }
         ],
         "source": [
           "CGRA"
         ],
-        "image": "/5.%20Mechanics/CLI/5E/compendium/bestiary/humanoid/token/warlock-of-the-fiend-legendary-monstermanualexpanded3.png",
+        "image": "/04-Compendium/CLI/5E/compendium/bestiary/humanoid/token/warlock-of-the-fiend-legendary-monstermanualexpanded3.png",
         "mtime": 1754020114535,
         "path": "04-Compendium/CLI/5E/compendium/bestiary/humanoid/warlock-of-the-fiend-legendary-monstermanualexpanded3.md",
         "creature": "Warlock of the Fiend, Legendary (MonsterManualExpanded3)",
@@ -173,7 +173,7 @@
           "Aspect of Orcus (mme2-v2)"
         ],
         "name": "Kae'l Thalas, Kalarel the Vile",
-        "ac_class": "natural armor; 23 with the <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/items/wand-of-orcus-xdmg.md|Wand of Orcus<STATBLOCK-MARKDOWN-LINK>",
+        "ac_class": "natural armor; 23 with the <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/items/wand-of-orcus-xdmg.md|Wand of Orcus<STATBLOCK-MARKDOWN-LINK>",
         "size": "Medium",
         "type": "undead",
         "subtype": "wizard",
@@ -193,25 +193,25 @@
         "speed": "30 ft.",
         "skillsaves": [
           {
-            "name": "<STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/skills.md#Arcana|Arcana<STATBLOCK-MARKDOWN-LINK>",
+            "name": "<STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/skills.md#Arcana|Arcana<STATBLOCK-MARKDOWN-LINK>",
             "desc": "+19"
           },
           {
-            "name": "<STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/skills.md#History|History<STATBLOCK-MARKDOWN-LINK>",
+            "name": "<STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/skills.md#History|History<STATBLOCK-MARKDOWN-LINK>",
             "desc": "+12"
           },
           {
-            "name": "<STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/skills.md#Insight|Insight<STATBLOCK-MARKDOWN-LINK>",
+            "name": "<STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/skills.md#Insight|Insight<STATBLOCK-MARKDOWN-LINK>",
             "desc": "+9"
           },
           {
-            "name": "<STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/skills.md#Perception|Perception<STATBLOCK-MARKDOWN-LINK>",
+            "name": "<STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/skills.md#Perception|Perception<STATBLOCK-MARKDOWN-LINK>",
             "desc": "+9"
           }
         ],
         "damage_resistances": "cold, lightning",
         "damage_immunities": "necrotic, poison",
-        "condition_immunities": "<STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/conditions.md#Charmed|charmed<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/conditions.md#Exhaustion|exhaustion<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/conditions.md#Frightened|frightened<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/conditions.md#Paralyzed|paralyzed<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/conditions.md#Poisoned|poisoned<STATBLOCK-MARKDOWN-LINK>",
+        "condition_immunities": "<STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/conditions.md#Charmed|charmed<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/conditions.md#Exhaustion|exhaustion<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/conditions.md#Frightened|frightened<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/conditions.md#Paralyzed|paralyzed<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/conditions.md#Poisoned|poisoned<STATBLOCK-MARKDOWN-LINK>",
         "senses": "truesight 120 ft., passive Perception 19",
         "languages": "all",
         "cr": "21",
@@ -225,7 +225,7 @@
             "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
           },
           {
-            "desc": "If destroyed, the lich reforms in d10 days if it has a spirit jar, reviving with all its <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/variant-rules/hit-points-xphb.md|Hit Points<STATBLOCK-MARKDOWN-LINK>. The new body appears in an unoccupied space within the lich's lair.",
+            "desc": "If destroyed, the lich reforms in d10 days if it has a spirit jar, reviving with all its <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/variant-rules/hit-points-xphb.md|Hit Points<STATBLOCK-MARKDOWN-LINK>. The new body appears in an unoccupied space within the lich's lair.",
             "name": "Spirit Jar"
           }
         ],
@@ -251,7 +251,7 @@
             "name": "Conjure Undead (1/Day)"
           },
           {
-            "desc": "The lich casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):\n\nAt will: <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/detect-magic-xphb.md|Detect Magic<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/detect-thoughts-xphb.md|Detect Thoughts<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/dispel-magic-xphb.md|Dispel Magic<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/fireball-xphb.md|Fireball<STATBLOCK-MARKDOWN-LINK> (level 5 version), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/invisibility-xphb.md|Invisibility<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/lightning-bolt-xphb.md|Lightning Bolt<STATBLOCK-MARKDOWN-LINK> (level 5 version), <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/mage-hand-xphb.md|Mage Hand<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/prestidigitation-xphb.md|Prestidigitation<STATBLOCK-MARKDOWN-LINK>\n\n2/day each: <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/animate-dead-xphb.md|Animate Dead<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/dimension-door-xphb.md|Dimension Door<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/plane-shift-xphb.md|Plane Shift<STATBLOCK-MARKDOWN-LINK>\n\n1/day each: <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/chain-lightning-xphb.md|Chain Lightning<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/finger-of-death-xphb.md|Finger of Death<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/power-word-kill-xphb.md|Power Word Kill<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/scrying-xphb.md|Scrying<STATBLOCK-MARKDOWN-LINK>",
+            "desc": "The lich casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):\n\nAt will: <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/detect-magic-xphb.md|Detect Magic<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/detect-thoughts-xphb.md|Detect Thoughts<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/dispel-magic-xphb.md|Dispel Magic<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/fireball-xphb.md|Fireball<STATBLOCK-MARKDOWN-LINK> (level 5 version), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/invisibility-xphb.md|Invisibility<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/lightning-bolt-xphb.md|Lightning Bolt<STATBLOCK-MARKDOWN-LINK> (level 5 version), <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/mage-hand-xphb.md|Mage Hand<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/prestidigitation-xphb.md|Prestidigitation<STATBLOCK-MARKDOWN-LINK>\n\n2/day each: <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/animate-dead-xphb.md|Animate Dead<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/dimension-door-xphb.md|Dimension Door<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/plane-shift-xphb.md|Plane Shift<STATBLOCK-MARKDOWN-LINK>\n\n1/day each: <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/chain-lightning-xphb.md|Chain Lightning<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/finger-of-death-xphb.md|Finger of Death<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/power-word-kill-xphb.md|Power Word Kill<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/scrying-xphb.md|Scrying<STATBLOCK-MARKDOWN-LINK>",
             "name": "Spellcasting"
           },
           {
@@ -259,7 +259,7 @@
             "name": "Eldritch Burst"
           },
           {
-            "desc": "Melee Attack Roll: +12, reach 5 ft. Hit: 15 (3d6 + 5) Cold damage, and the target has the <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/conditions.md#Paralyzed|Paralyzed<STATBLOCK-MARKDOWN-LINK> condition until the start of the lich's next turn.",
+            "desc": "Melee Attack Roll: +12, reach 5 ft. Hit: 15 (3d6 + 5) Cold damage, and the target has the <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/conditions.md#Paralyzed|Paralyzed<STATBLOCK-MARKDOWN-LINK> condition until the start of the lich's next turn.",
             "name": "Paralyzing Touch"
           }
         ],
@@ -281,11 +281,11 @@
             "name": "Deathly Teleport"
           },
           {
-            "desc": "Constitution Saving Throw: DC 20, each creature that isn't an Undead in a 20-foot <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/rules/variant-rules/emanation-area-of-effect-xphb.md|Emanation<STATBLOCK-MARKDOWN-LINK> originating from the lich. Failure: 31 (9d6) Necrotic damage. Success: Half damage. Failure or Success: The lich can't take this action again until the start of its next turn.",
+            "desc": "Constitution Saving Throw: DC 20, each creature that isn't an Undead in a 20-foot <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/rules/variant-rules/emanation-area-of-effect-xphb.md|Emanation<STATBLOCK-MARKDOWN-LINK> originating from the lich. Failure: 31 (9d6) Necrotic damage. Success: Half damage. Failure or Success: The lich can't take this action again until the start of its next turn.",
             "name": "Disrupt Life"
           },
           {
-            "desc": "The lich casts <STATBLOCK-MARKDOWN-LINK>/5.%20Mechanics/CLI/5E/compendium/spells/fear-xphb.md|Fear<STATBLOCK-MARKDOWN-LINK>, using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn.\n",
+            "desc": "The lich casts <STATBLOCK-MARKDOWN-LINK>/04-Compendium/CLI/5E/compendium/spells/fear-xphb.md|Fear<STATBLOCK-MARKDOWN-LINK>, using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn.\n",
             "name": "Frightening Gaze"
           }
         ],
@@ -293,7 +293,7 @@
           "XMM",
           "DrDe"
         ],
-        "image": "/5.%20Mechanics/CLI/5E/compendium/bestiary/undead/token/lich-xmm.webp",
+        "image": "/04-Compendium/CLI/5E/compendium/bestiary/undead/token/lich-xmm.webp",
         "mtime": 1754020119283,
         "path": "04-Compendium/CLI/5E/compendium/bestiary/undead/lich-xmm.md",
         "saves": [

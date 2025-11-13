@@ -32,7 +32,7 @@ Tags:
  - Location/Settlment
  - Location/Outpost
  - <% worldTag %>
-  - InProgress
+ - InProgress
 Community-Size: Outpost
 Alignment: Chaotic Evil
 Government: Autocracy

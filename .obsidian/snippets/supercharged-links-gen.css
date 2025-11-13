@@ -569,13 +569,13 @@ div[data-id="40b0-254a"] div.setting-item-description::after,
 }
 
 div[data-id="1eb1-4ea1"] div.setting-item-description,
-[data-link-path*=" Template" i] {
+[data-link-path*="zz-nexus/Templates/04-World Building Templates" i] {
     color: var(--1eb1-4ea1-color) !important;
     font-weight: var(--1eb1-4ea1-weight);
 }
 
 .c-1eb1-4ea1-use-background div[data-id="1eb1-4ea1"] div.setting-item-description,
-.c-1eb1-4ea1-use-background .data-link-text[data-link-path*=" Template" i] {
+.c-1eb1-4ea1-use-background .data-link-text[data-link-path*="zz-nexus/Templates/04-World Building Templates" i] {
     background-color: var(--1eb1-4ea1-background-color) !important;
     border-radius: 5px;
     padding-left: 2px;
@@ -584,12 +584,12 @@ div[data-id="1eb1-4ea1"] div.setting-item-description,
 }
 
 div[data-id="1eb1-4ea1"] div.setting-item-description::before,
-.data-link-icon[data-link-path*=" Template" i]::before {
+.data-link-icon[data-link-path*="zz-nexus/Templates/04-World Building Templates" i]::before {
     content: var(--1eb1-4ea1-before);
 }
 
 div[data-id="1eb1-4ea1"] div.setting-item-description::after,
-.data-link-icon-after[data-link-path*=" Template" i]::after {
+.data-link-icon-after[data-link-path*="zz-nexus/Templates/04-World Building Templates" i]::after {
     content: var(--1eb1-4ea1-after);
 }
 /* @settings
@@ -1660,7 +1660,7 @@ settings:
         default: '#ffffff'
     - 
         id: 1eb1-4ea1
-        title: path is  Template
+        title: path is zz-nexus/Templates/04-World Building Templates
         description: Example note
         type: heading
         collapsed: true

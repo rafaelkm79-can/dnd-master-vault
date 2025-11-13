@@ -231,7 +231,7 @@
     {
       "type": "path",
       "name": "NoteIcon",
-      "value": " Template",
+      "value": "zz-nexus/Templates/04-World Building Templates",
       "matchCaseSensitive": false,
       "match": "contains",
       "uid": "1eb1-4ea1",
