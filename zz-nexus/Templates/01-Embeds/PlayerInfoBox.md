@@ -8,7 +8,7 @@ pic: zz-nexus/Attachments/Azgaar/AedrylMap2.png
 
 > [!statblocks| right wikipedia]+
 > # `$=  dv.current().file.name`
-> `INPUT[imageSuggester(optionQuery("zz-nexus/Attachments"),class(cover)):pic]`
+> `INPUT[imageSuggester(optionQuery("03-Campaigns"),class(cover)):pic]`
 > ###### Player Data
 >   |   |
 > ---|---|
