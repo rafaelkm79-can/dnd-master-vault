@@ -86,7 +86,7 @@ const PlayerInfoBox = ({ fileName, className = '' }) => {
                             componentProps: {
                                 fileName: fileName,
                                 fieldName: 'Race',
-                                query: "@page and #Category/Race and (path(\"04-Compendium/CLI/5E/compendium/races\") or path(\"4-Compendium\"))",
+                                query: "@page and #Category/Race and (path(\"04-Compendium/CLI/5E/compendium/races\") or path(\"04-Compendium\"))",
                                 showCreate: false,
                                 dropdownMap, 
                                 saveMap,

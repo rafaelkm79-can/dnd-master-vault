@@ -122,7 +122,7 @@ const ExampleUsage = () => {
                 <FileListSuggester
                     fileName={fileName}
                     fieldName={'characters'}
-                    query={"@page and #Category/NPC and path(\"4-Compendium\")"}
+                    query={"@page and #Category/NPC and path(\"04-Compendium\")"}
                     templatePath={'zz-nexus/Templates/04-World Building Templates/TemplateNPC.md'} 
                     openNew={true}
                 />
