@@ -29,7 +29,7 @@ const pages = dv.pages('!"04-Compendium" and !"zz-nexus" and  #interesting')
 	.limit(15)
 	.map(p => [
 		`![[${p.file.path}#^interesting]]`,
-		`[[${p.file.path}|${dv.func.dateformat(p.file.mtime, "dd.MM.yyyy - HH:mm")}]]`,
+		`[[${p.file.path}|${p.file.name} ${dv.func.dateformat(p.file.mtime, "dd.MM.yyyy - HH:mm")}]]`,
 		p.tags.find(t => t.startsWith("Campaign")).replace('Campaign/','') || "N/A"
 	])
 dv.paragraph(dv.markdownTable(['Event', 'Time','Campaign'], pages))

@@ -227,6 +227,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "NoteIcon",
+      "value": " Template",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "1eb1-4ea1",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

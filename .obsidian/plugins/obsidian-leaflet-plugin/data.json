@@ -1592,7 +1592,7 @@
     },
     {
       "id": "beastgladesroadtocragthorn",
-      "lastAccessed": 1762908002115,
+      "lastAccessed": 1762991012043,
       "markers": [
         {
           "id": "ID_1838990a6ba9",
@@ -1761,9 +1761,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "03-Campaigns/The Adventurers Guild/02-Quests/00-Drafts/Birds Of A Feather.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {
