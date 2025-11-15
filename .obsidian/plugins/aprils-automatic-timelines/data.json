@@ -1,0 +1,124 @@
+{
+  "dateDisplayFormat": "{day} of {month}, in the year {year} {era}",
+  "dateParserGroupPriority": "era,year,month,day",
+  "dateParserRegex": "(?<era>-?[0-9]*)-(?<year>-?[0-9]*)-(?<month>-?[0-9]*)-(?<day>-?[0-9]*)",
+  "eventRenderToggleKey": "aat-render-enabled",
+  "inlineEventEndOfBodyMarker": "%%aat-event-end-of-body%%",
+  "markdownBlockTagsToFindSeparator": ",",
+  "metadataKeyEventBodyOverride": "aat-event-body",
+  "metadataKeyEventEndDate": "fc-end",
+  "metadataKeyEventPictureOverride": "aat-event-picture",
+  "metadataKeyEventStartDate": "fc-date",
+  "metadataKeyEventTimelineTag": "timelines",
+  "metadataKeyEventTitleOverride": "fc-display-name",
+  "noteInlineEventKey": "aat-inline-event",
+  "ignoreLineCommentToken": "aat-ignore-line",
+  "applyAdditonalConditionFormatting": true,
+  "lookForCalendariumSpanEvents": false,
+  "lookForInlineEventsInNotes": true,
+  "lookForTagsForTimeline": false,
+  "stylizeDateInline": false,
+  "pathRegexp": "03-Campaigns",
+  "bodyFontSize": -1,
+  "dateFontSize": 20,
+  "titleFontSize": -1,
+  "dateTokenConfiguration": [
+    {
+      "minLeght": 4,
+      "name": "year",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [],
+      "hideSign": true
+    },
+    {
+      "name": "month",
+      "type": "STRING",
+      "dictionary": [
+        "invalid 0 index",
+        "Bahamus",
+        "Berronus",
+        "Syranus",
+        "Tyrus",
+        "Helmus",
+        "Amaterus",
+        "Cyrrus",
+        "Girrus",
+        "Jazus",
+        "Ilmatus",
+        "Moradus",
+        "Trishinus"
+      ],
+      "formatting": []
+    },
+    {
+      "minLeght": 1,
+      "name": "day",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [
+        {
+          "conditionsAreExclusive": true,
+          "evaluations": [
+            {
+              "condition": "EQUAL",
+              "value": 1
+            }
+          ],
+          "format": "{value}st"
+        },
+        {
+          "conditionsAreExclusive": true,
+          "evaluations": [
+            {
+              "condition": "EQUAL",
+              "value": 2
+            }
+          ],
+          "format": "{value}nd"
+        },
+        {
+          "conditionsAreExclusive": true,
+          "evaluations": [
+            {
+              "condition": "EQUAL",
+              "value": 3
+            }
+          ],
+          "format": "{value}rd"
+        },
+        {
+          "conditionsAreExclusive": true,
+          "evaluations": [
+            {
+              "condition": "GREATER",
+              "value": 3
+            }
+          ],
+          "format": "{value}th"
+        }
+      ],
+      "hideSign": false,
+      "dictionary": [
+        "1st",
+        "2nd",
+        "3rd"
+      ]
+    },
+    {
+      "minLeght": 2,
+      "name": "era",
+      "type": "STRING",
+      "displayWhenZero": true,
+      "formatting": [],
+      "hideSign": false,
+      "dictionary": [
+        "invalid 0",
+        "A.P.",
+        "V.A.",
+        "A.H.",
+        "A.E."
+      ]
+    }
+  ]
+}
