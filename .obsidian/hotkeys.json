@@ -24,5 +24,23 @@
       "key": "R"
     }
   ],
-  "various-complements:reload-custom-dictionaries": []
+  "various-complements:reload-custom-dictionaries": [],
+  "templater-obsidian:create-zz-nexus/Templates/04-World Building Templates/ExtractContents.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
+    }
+  ],
+  "templater-obsidian:create-zz-nexus/Templates/ExtractContentTemplate.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
+    }
+  ]
 }

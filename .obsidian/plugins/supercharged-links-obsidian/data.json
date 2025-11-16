@@ -239,6 +239,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "NoteIcon",
+      "value": "Event",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "0236-5a21",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

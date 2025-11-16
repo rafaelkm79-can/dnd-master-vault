@@ -1,5 +1,5 @@
 {
-  "dateDisplayFormat": "{day} of {month}, in the year {year} {era}",
+  "dateDisplayFormat": "{day} {month}, {year} ({era})",
   "dateParserGroupPriority": "era,year,month,day",
   "dateParserRegex": "(?<era>-?[0-9]*)-(?<year>-?[0-9]*)-(?<month>-?[0-9]*)-(?<day>-?[0-9]*)",
   "eventRenderToggleKey": "aat-render-enabled",
@@ -13,14 +13,14 @@
   "metadataKeyEventTitleOverride": "fc-display-name",
   "noteInlineEventKey": "aat-inline-event",
   "ignoreLineCommentToken": "aat-ignore-line",
-  "applyAdditonalConditionFormatting": true,
+  "applyAdditonalConditionFormatting": false,
   "lookForCalendariumSpanEvents": false,
   "lookForInlineEventsInNotes": true,
   "lookForTagsForTimeline": false,
   "stylizeDateInline": false,
-  "pathRegexp": "03-Campaigns",
+  "pathRegexp": "(03-Session)|(02-Quests)|(05-Events)",
   "bodyFontSize": -1,
-  "dateFontSize": 20,
+  "dateFontSize": 22,
   "titleFontSize": -1,
   "dateTokenConfiguration": [
     {
@@ -83,6 +83,36 @@
             {
               "condition": "EQUAL",
               "value": 3
+            }
+          ],
+          "format": "{value}rd"
+        },
+        {
+          "conditionsAreExclusive": true,
+          "evaluations": [
+            {
+              "condition": "EQUAL",
+              "value": 21
+            }
+          ],
+          "format": "{value}st"
+        },
+        {
+          "conditionsAreExclusive": true,
+          "evaluations": [
+            {
+              "condition": "EQUAL",
+              "value": 22
+            }
+          ],
+          "format": "{value}nd"
+        },
+        {
+          "conditionsAreExclusive": true,
+          "evaluations": [
+            {
+              "condition": "EQUAL",
+              "value": 23
             }
           ],
           "format": "{value}rd"
